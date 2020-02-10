@@ -1,4 +1,4 @@
-# What wine should I order next?
+# What wine should I order?
 
 A Udacity Data Science NanoDegree Project (1)
 
