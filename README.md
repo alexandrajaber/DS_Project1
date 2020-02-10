@@ -18,20 +18,20 @@ Python version: Python 3.7.3
 
 Packages needed:
 
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from sklearn.linear_model import LinearRegression
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import r2_score, mean_squared_error
-from wordcloud import WordCloud,STOPWORDS
-import missingno as msno
-import squarify
-import seaborn as sns
-from sklearn.neighbors import NearestNeighbors
-from scipy.sparse import csr_matrix
-from sklearn.decomposition import TruncatedSVD
-%matplotlib inline
+  - import numpy as np
+  - import pandas as pd
+  - import matplotlib.pyplot as plt
+  - from sklearn.linear_model import LinearRegression
+  - from sklearn.model_selection import train_test_split
+  - from sklearn.metrics import r2_score, mean_squared_error
+  - from wordcloud import WordCloud,STOPWORDS
+  - import missingno as msno
+  - import squarify
+  - import seaborn as sns
+  - from sklearn.neighbors import NearestNeighbors
+  - from scipy.sparse import csr_matrix
+  - from sklearn.decomposition import TruncatedSVD
+  - %matplotlib inline
 
 
 ## Project Motivation
