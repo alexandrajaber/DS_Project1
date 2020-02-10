@@ -1,5 +1,6 @@
-# DS_Project1
-Udacity Data Science NanoDegree - Project 1
+# What wine should I order next?
+
+A Udacity Data Science NanoDegree Project (1)
 
 
 ## Table of contents
@@ -52,7 +53,9 @@ There are 4 notebooks available here to showcase work related to the above quest
 
 ## Project Overview
 
-(To be Updated)
+This project is part of one of the deliverables for the Data Science for Enterprice Nanodegree offered by Udacity. The aim is to explore a random dataset, pose a few business questions and find answers using newly acquired Python skills. I have taken it a step further by incorporating a recommender system that would recommend what wine I should order based on my personal preferences.
+
+You can find more information on my findings on my blog post (link added shortly).
 
 ## Licensing, Authors and Acknowledgements
 
