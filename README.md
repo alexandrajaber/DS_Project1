@@ -9,7 +9,7 @@ A Udacity Data Science NanoDegree Project (1)
 - [Project Motivation](#project-motivation)
 - [File Description](#file-description)
 - [Project Overview](#project-overview)
-- [Licensing, Authors and Acknowledgements](#licensing-authors-acknowledgements)
+- [Licensing, Authors and Acknowledgements](#licensing-authors-and-acknowledgements)
 
 
 ## Installations
