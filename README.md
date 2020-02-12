@@ -41,14 +41,15 @@ For this project, I was interestested in using Wine Reviews data from 2017 to be
   1. Which countries have the highest rated and the lowest rated wines?
   2. Which countries have on average the most expensive and the least expensive wines?
   3. What is the correlation between price of wine and rating?
-  4. Which wine should I buy based on my preferences?
+  4. What variables are top indicators of wine price? 
+  5. Which wine should I buy based on my preferences?
   
 The data was scraped from WineEnthusiast during the week of June 15th, 2017. I have used the data files available on the [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews) Dataset posted and shared by zackthoutt.
 
 
 ## File Description
 
-There are 4 notebooks available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
+There is 1 notebook available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
 
 
 ## Project Overview
