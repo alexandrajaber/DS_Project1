@@ -1,5 +1,4 @@
-# What wine should I order?
-
+# Wine Review Analysis
 A Udacity Data Science NanoDegree Project (1)
 
 
@@ -42,7 +41,7 @@ For this project, I was interestested in using Wine Reviews data from 2017 to be
   2. Which countries have on average the most expensive and the least expensive wines?
   3. What is the correlation between price of wine and rating?
   4. What variables are top indicators of wine price? 
-  5. Which wine should I buy based on my preferences?
+ 
   
 The data was scraped from WineEnthusiast during the week of June 15th, 2017. I have used the data files available on the [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews) Dataset posted and shared by zackthoutt.
 
