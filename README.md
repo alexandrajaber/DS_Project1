@@ -23,9 +23,6 @@ Packages needed:
   - from sklearn.linear_model import LinearRegression
   - from sklearn.model_selection import train_test_split
   - from sklearn.metrics import r2_score, mean_squared_error
-  - from wordcloud import WordCloud,STOPWORDS
-  - import missingno as msno
-  - import squarify
   - import seaborn as sns
   - from sklearn.neighbors import NearestNeighbors
   - from scipy.sparse import csr_matrix
@@ -39,8 +36,8 @@ For this project, I was interestested in using Wine Reviews data from 2017 to be
 
   1. Which countries have the highest rated and the lowest rated wines?
   2. Which countries have on average the most expensive and the least expensive wines?
-  3. What is the correlation between price of wine and rating?
-  4. What variables are top indicators of wine price? 
+  3. The more expensive the wine the better the rating?  
+  4. What variables are top indicators of wine price? (Coming soon...)
  
   
 The data was scraped from WineEnthusiast during the week of June 15th, 2017. I have used the data files available on the [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews) Dataset posted and shared by zackthoutt.
@@ -55,7 +52,7 @@ There is 1 notebook available here to showcase work related to the above questio
 
 This project is part of one of the deliverables for the Data Science for Enterprice Nanodegree offered by Udacity. The aim is to explore a random dataset, pose a few business questions and find answers using newly acquired Python skills. I have taken it a step further by incorporating a recommender system that would recommend what wine I should order based on my personal preferences.
 
-You can find more information on my findings on my blog post (link added shortly).
+You can find more information on my findings on my blog post [here](https://medium.com/@alexandra1895/wine-review-analysis-3b91277d23b5).
 
 ## Licensing, Authors and Acknowledgements
 
