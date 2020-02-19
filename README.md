@@ -59,24 +59,38 @@ You can find more information on my findings on my blog post [here](https://medi
 
 #### Business understanding
 
-outline the questions you will answer along with why they are relevant and important
+The question I have covered are the following:
+
+  1. Which countries have the highest rated and the lowest rated wines?
+  2. Which countries have on average the most expensive and the least expensive wines?
+  3. The more expensive the wine the better the rating?  
+  4. What variables are top indicators of wine price? (Coming soon...)
+  
+I have opted to answer those question because I have always noticed that price and rating are highly variable when it comes to wine. Therefore, as part of my analysis I was curious to rank the points as well as price by country. Following that, I was interested in looking at the interaction between price and quality to understand whether the popular belief of 'the more expensive the wine, the better' holds. Furthermore, I was also interested in understanding which variables truely determine the price of wine if not rating.
 
 #### Data understanding
 
-provide some stats about your data like mean and std deviations of the different features
+###### Discriptive statistics
+
+Points:
+  - Mean= 88.1469
+  - Standard devation= 3.15153
+
+Price
+  - Mean= 34.1772	
+  - Standard deviation= 38.6117
+  - Range= 3296
+  - Median= 25
 
 #### Data preparation
 
-show how you clean and prepare the data. It is important to document and not just write the code
+There were about 8% of the values in Price that were NaN which is quite a small number. Furthermore, the range of the Price was 3296 and thus we felt replacing those missing values with the mean would not be an acurate prediction of the price for those wines. Hence, we decided to drop those rows.
 
-
-#### Data modeling
-
-if you created a model this is the section you would put it in or the analysis
+In addition, for the categorical variables we used for our Linear Regression model, we decided to create a dummy column and discard of the columns we felt weren't useful to what insights we were trying to generate.
 
 #### Results evaluation
 
-conclusion and discussion
+Our analysis found some compelling conclusions which can be found on our notebook or our blog post [here](https://medium.com/@alexandra1895/wine-review-analysis-3b91277d23b5). Noteably, we found that there is no correlation at all between price and quality of wine as per the dataset used. We need to furher refine our Linear Regression Model to understand which variables impact the price of wine!
 
 ## Licensing, Authors and Acknowledgements
 
