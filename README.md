@@ -8,6 +8,7 @@ A Udacity Data Science NanoDegree Project (1)
 - [Project Motivation](#project-motivation)
 - [File Description](#file-description)
 - [Project Overview](#project-overview)
+- [CRISP-DM](#crisp-dm)
 - [Licensing, Authors and Acknowledgements](#licensing-authors-and-acknowledgements)
 
 
@@ -53,6 +54,29 @@ There is 1 notebook available here to showcase work related to the above questio
 This project is part of one of the deliverables for the Data Science for Enterprice Nanodegree offered by Udacity. The aim is to explore a random dataset, pose a few business questions and find answers using newly acquired Python skills. I have taken it a step further by incorporating a recommender system that would recommend what wine I should order based on my personal preferences.
 
 You can find more information on my findings on my blog post [here](https://medium.com/@alexandra1895/wine-review-analysis-3b91277d23b5).
+
+## CRISP-DM
+
+#### Business understanding
+
+outline the questions you will answer along with why they are relevant and important
+
+#### Data understanding
+
+provide some stats about your data like mean and std deviations of the different features
+
+#### Data preparation
+
+show how you clean and prepare the data. It is important to document and not just write the code
+
+
+#### Data modeling
+
+if you created a model this is the section you would put it in or the analysis
+
+#### Results evaluation
+
+conclusion and discussion
 
 ## Licensing, Authors and Acknowledgements
 
